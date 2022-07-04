@@ -3,7 +3,7 @@ import 'package:art_in_hair/presentation/responsive/tablet/header_tablet.dart';
 import 'package:art_in_hair/presentation/responsive/web/header_web.dart';
 import 'package:flutter/material.dart';
 
-import 'mobile/header_mobile.dart';
+import '../mobile/header_mobile.dart';
 
 class HeaderTogetherMobileTabletWeb extends StatelessWidget {
   const HeaderTogetherMobileTabletWeb({Key? key}) : super(key: key);

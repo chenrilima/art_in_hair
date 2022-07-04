@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../../theme/app_theme.dart';
-import '../responsive/together.dart';
+import '../responsive/responsibles/app_bar_responsible.dart';
 
 class HairHome extends StatelessWidget {
   static const String route = '/quem-somos/';
