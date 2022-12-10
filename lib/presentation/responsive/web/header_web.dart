@@ -22,7 +22,7 @@ class HeaderWeb extends StatelessWidget {
             },
             child: Image.asset(
               filterQuality: FilterQuality.high,
-              AppImages.logoHeader,
+              AppImages.iconArtInHair,
               scale: 3.85,
             ),
           ),

@@ -15,7 +15,7 @@ class HeaderMobile extends StatelessWidget {
           child: InkWell(
             onTap: () {},
             child: Image.asset(
-              AppImages.logoHeader,
+              AppImages.iconArtInHair,
               scale: 3.85,
             ),
           ),
